@@ -1,5 +1,8 @@
 import { Component } from '@angular/core';
 
+import { PortifolioComponent } from './portifolio/portifolio.component';
+
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
